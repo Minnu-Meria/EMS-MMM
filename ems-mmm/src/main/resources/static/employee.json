@@ -1,0 +1,33 @@
+[ {
+  "id" : "1",
+  "firstName" : "arun",
+  "lastName" : "mathew",
+  "dateOfBirth" : "2000-10-10",
+  "salary" : 2000,
+  "dateOfJoining" : "2024-10-12",
+  "department" : "IT"
+}, {
+  "id" : "2",
+  "firstName" : "sam",
+  "lastName" : "philip",
+  "dateOfBirth" : "2000-04-16",
+  "salary" : 1500,
+  "dateOfJoining" : "2020-04-15",
+  "department" : "Supply"
+}, {
+  "id" : "3",
+  "firstName" : "Mohamed",
+  "lastName" : "Ahemed",
+  "dateOfBirth" : "2000-01-01",
+  "salary" : 1000,
+  "dateOfJoining" : "2023-05-18",
+  "department" : "IT"
+}, {
+  "id" : "4",
+  "firstName" : "Rafeeq",
+  "lastName" : "Ahmed",
+  "dateOfBirth" : "1993-04-16",
+  "salary" : 2000,
+  "dateOfJoining" : "2020-04-15",
+  "department" : "IT"
+} ]
